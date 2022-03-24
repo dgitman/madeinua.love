@@ -1,12 +1,8 @@
 # Software Made in Ukraine with ❤️
 
-## Productivity
+## Accounting
 
-[Grammarly](https://www.grammarly.com/)
-
-[MacPaw](https://macpaw.com/)
-
-[Readdle](https://readdle.com/)
+[BookKeeper](https://bookkeeper.kiev.ua/) (No English version)
 
 ## CRM
 
@@ -18,31 +14,73 @@
 
 [Asteril CRM](https://asteril.com/) (No English version)
 
-## Developement
+## Customer Service
 
-[GitLab](https://about.gitlab.com/)
+[Kwizbot](https://kwizbot.io/en)
 
-## Low-Code/No-Code Tools
+[Skibble](https://skibble.com.ua/)
 
-[OneBox OS](https://1b.app/en/)
+## Ecommerce
 
-[Creatio](https://www.creatio.com/)
+[Horoshop](https://horoshop.eu/)
 
-## Accounting
+[Okay CMS](https://okay-cms.com/en)
 
-[BookKeeper](https://bookkeeper.kiev.ua/) (No English version)
+[Shop-Express](https://shop-express.com.ua/) (No English version)
 
 ## Healthcare
 
 [Doctor Eleks](https://doctor.eleks.com/)
 
+## Low-Code/No-Code Tools
+
+[ApiX-Drive](https://apix-drive.com/)
+
+[OneBox OS](https://1b.app/en/)
+
+[Creatio](https://www.creatio.com/)
+
+## Marketing
+
+[eSputnik](https://esputnik.com/en)
+
+[LOOQME](https://looqme.io/)
+
+[Plerdy](https://www.plerdy.com/)
+
+[Ringostat](https://ringostat.com/)
+
+[Serpstat](https://serpstat.com/)
+
+[stripo](https://stripo.email/)
+
+## Productivity
+
+[Grammarly](https://www.grammarly.com/)
+
+[MacPaw](https://macpaw.com/)
+
+[Readdle](https://readdle.com/)
+
 ## Retail
 
-[Torgsoft](https://torgsoft.ua/) (No English version)
+[Торгсофт](https://torgsoft.ua/) (No English version)
+
+## Software Developement
+
+[GitLab](https://about.gitlab.com/)
+
+## Telephony
+
+[binotel](https://www.binotel.ua/)
 
 ## UAV
 
 [Luftronix](https://luftronix.com/)
+
+## WYSIWYG (Website Builder)
+
+[Weblium](https://weblium.com/)
 
 ## Other
 
