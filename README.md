@@ -1,4 +1,4 @@
-# Software Made in Urkaine with ❤️
+# Software Made in Ukraine with ❤️
 
 ## Productivity
 
