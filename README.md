@@ -8,21 +8,20 @@
 [Readdle](https://readdle.com/)
 
 ## CRM
-[SalesDrive](https://salesdrive.com.ua/) No English version
+[SalesDrive](https://salesdrive.com.ua/) (No English version)
 
-[KeyCRM](https://keycrm.app/) No English version
+[KeyCRM](https://keycrm.app/) (No English version)
 
-[KeepinCRM](https://keepincrm.com/) No English version
+[KeepinCRM](https://keepincrm.com/) (No English version)
 
-[Asteril CRM ] (https://asteril.com/) No English version
-
-[](https://www.creatio.com/)
+[Asteril CRM](https://asteril.com/) (No English version)
 
 ## Developement
 [GitLab](https://about.gitlab.com/)
 
 ## Low-Code/No-Code Tools
 [OneBox OS](https://1b.app/en/)
+
 [Creatio](https://www.creatio.com/)
 
 ## Healthcare
