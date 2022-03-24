@@ -2,5 +2,5 @@
 [Grammarly](https://www.grammarly.com/)
 
 # Developement
-[GitLab] (https://about.gitlab.com/)
+[GitLab](https://about.gitlab.com/)
 
