@@ -9,5 +9,5 @@
 [GitLab](https://about.gitlab.com/)
 
 # Healthcare
-[Doctor Eleks] https://doctor.eleks.com/
+[Doctor Eleks](https://doctor.eleks.com/)
 
