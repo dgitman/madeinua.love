@@ -46,6 +46,8 @@
 
 ## Other
 
+[Ajax](https://ajax.systems/)
+
 [DAKAR](https://eleks.com/about-us/our-products/dakar-system/)
 
 ## System Intergrators
