@@ -34,4 +34,5 @@
 [DAKAR](https://eleks.com/about-us/our-products/dakar-system/)
 
 ## System Intergrators
-[CRMiUM](https://crmium.com/)
+[Atwix](https://www.atwix.com/) (Magento)
+[CRMiUM](https://crmium.com/) (CRM)
