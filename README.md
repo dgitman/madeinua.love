@@ -1,6 +1,6 @@
-#Productivity
+# Productivity
 [Grammarly](https://www.grammarly.com/)
 
-#Developement
+# Developement
 [GitLab] (https://about.gitlab.com/)
 
