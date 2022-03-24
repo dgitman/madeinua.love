@@ -20,6 +20,10 @@
 
 [Skibble](https://skibble.com.ua/)
 
+## Design
+
+[Depositphotos](https://depositphotos.com/)
+
 ## Ecommerce
 
 [Horoshop](https://horoshop.eu/)
@@ -93,3 +97,25 @@
 [Atwix](https://www.atwix.com/) (Magento)
 
 [CRMiUM](https://crmium.com/) (CRM)
+
+## To Be Sorted
+
+https://www.crunchbase.com/organization/looksery
+
+https://petcube.com/
+
+https://joinposter.com/en
+
+https://dressx.com/
+
+https://vymex.com/
+
+https://socprime.com/
+
+https://hey.reface.ai/
+
+https://restream.io/
+
+https://www.regrow.ag/
+
+https://people.ai/
