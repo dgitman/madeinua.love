@@ -30,6 +30,9 @@
 ## Healthcare
 [Doctor Eleks](https://doctor.eleks.com/)
 
+## Retail
+[Torgsoft](https://torgsoft.ua/) (No English version)
+
 ## UAV
 [Luftronix](https://luftronix.com/)
 
