@@ -1,18 +1,9 @@
 # Software Made in Ukraine with ❤️
 
-## Accounting
+Qualifications:
 
-[BookKeeper](https://bookkeeper.kiev.ua/) (No English version)
-
-## CRM
-
-[SalesDrive](https://salesdrive.com.ua/) (No English version)
-
-[KeyCRM](https://keycrm.app/) (No English version)
-
-[KeepinCRM](https://keepincrm.com/) (No English version)
-
-[Asteril CRM](https://asteril.com/) (No English version)
+- Headquartered in Ukraine before / during the Russian invasion
+- Website is in English or has a multilingual English version
 
 ## Customer Service
 
@@ -29,8 +20,6 @@
 [Horoshop](https://horoshop.eu/)
 
 [Okay CMS](https://okay-cms.com/en)
-
-[Shop-Express](https://shop-express.com.ua/) (No English version)
 
 ## Healthcare
 
@@ -65,10 +54,6 @@
 [MacPaw](https://macpaw.com/)
 
 [Readdle](https://readdle.com/)
-
-## Retail
-
-[Торгсофт](https://torgsoft.ua/) (No English version)
 
 ## Software Developement
 
