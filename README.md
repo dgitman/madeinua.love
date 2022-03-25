@@ -5,6 +5,10 @@ Qualifications:
 - Headquartered in Ukraine before / during the Russian invasion
 - Website is in English or has a multilingual English version
 
+## CRM
+
+[Snov.io](https://snov.io/)
+
 ## Customer Service
 
 [Kwizbot](https://kwizbot.io/en)
