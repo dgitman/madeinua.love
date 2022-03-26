@@ -5,7 +5,15 @@ Qualifications:
 - Headquartered in Ukraine before / during the Russian invasion
 - Website is in English or has a multilingual English version
 
-## CRM
+## Artificial Intelligence
+
+[Reface](https://hey.reface.ai/)
+
+## Business Process Management (BPM)
+
+[VYMEX](https://vymex.com/en)
+
+## Customer relationship management (CRM)
 
 [Snov.io](https://snov.io/)
 
@@ -14,6 +22,10 @@ Qualifications:
 [Kwizbot](https://kwizbot.io/en)
 
 [Skibble](https://skibble.com.ua/)
+
+## Cyber Security
+
+[SOC Prime](https://socprime.com/)
 
 ## Design
 
@@ -59,6 +71,12 @@ Qualifications:
 
 [Readdle](https://readdle.com/)
 
+## Retail
+
+[DRESSX](https://dressx.com/)
+
+[Poster](https://joinposter.com/en)
+
 ## Software Developement
 
 [GitLab](https://about.gitlab.com/)
@@ -71,7 +89,11 @@ Qualifications:
 
 [Luftronix](https://luftronix.com/)
 
-## WYSIWYG (Website Builder)
+## Web3
+
+[](https://hacken.io/)
+
+## Website Builder (WYSIWYG)
 
 [Weblium](https://weblium.com/)
 
@@ -89,19 +111,7 @@ Qualifications:
 
 ## To Be Sorted
 
-https://www.crunchbase.com/organization/looksery
-
 https://petcube.com/
-
-https://joinposter.com/en
-
-https://dressx.com/
-
-https://vymex.com/
-
-https://socprime.com/
-
-https://hey.reface.ai/
 
 https://restream.io/
 
