@@ -35,7 +35,9 @@ Qualifications:
 
 [Horoshop](https://horoshop.eu/)
 
-[Okay CMS](https://okay-cms.com/en)
+[Metafields Guru] (https://apps.shopify.com/metafields-editor-2)
+
+[Okay CMS](https://okay-cms.com/en) 
 
 ## Healthcare
 
