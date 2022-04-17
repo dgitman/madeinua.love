@@ -81,6 +81,8 @@ Qualifications:
 
 ## Software Developement
 
+[ASCII Table](https://www.asciihex.com/)
+
 [GitLab](https://about.gitlab.com/)
 
 ## Telephony
