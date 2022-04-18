@@ -35,7 +35,7 @@ Qualifications:
 
 [Horoshop](https://horoshop.eu/)
 
-[Metafields Guru] (https://apps.shopify.com/metafields-editor-2)
+[Metafields Guru](https://apps.shopify.com/metafields-editor-2)
 
 [Okay CMS](https://okay-cms.com/en) 
 
